@@ -1,0 +1,19 @@
+SUBMISSION CHECKLIST
+[ ] Fill in student name, ITS number, qualification, year, semester and dates in the report.
+[ ] Open the project in Android Studio and allow Gradle sync.
+[ ] Run on an emulator/device and fix any build/runtime issues.
+[ ] Test create, read, update and delete.
+[ ] Test strict matching by removing one required ingredient.
+[ ] Test persistence after closing and reopening the app.
+[ ] Capture genuine screenshots for all required screens and validation states.
+[ ] Replace all screenshot placeholders in the report.
+[ ] Complete the observed-results column in the testing table.
+[ ] Create a public GitHub repository and push the project during development.
+[ ] Make at least 10 genuine, incremental commits with descriptive messages.
+[ ] Update README with your repository details if necessary.
+[ ] Record a narrated 5–7 minute demonstration.
+[ ] Export report as PDF or Word.
+[ ] Package project source, report and MP4 video in one ZIP under 50 MB.
+[ ] Name ZIP Studentnumber_Surname_MobileAppDev700_Assignment.zip
+[ ] Ensure the GitHub link in the report works.
+[ ] Sign the declaration of originality and submit only work you understand and can defend.

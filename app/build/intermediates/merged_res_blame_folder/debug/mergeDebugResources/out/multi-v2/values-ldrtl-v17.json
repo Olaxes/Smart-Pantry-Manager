@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "za.co.richfield.smartpantry.app-mergeDebugResources-29:/values-ldrtl-v17/values-ldrtl-v17.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\tshir\\.gradle\\caches\\9.3.0\\transforms\\90fe02db43674cd75b9eacb7111708c1\\workspace\\transformed\\material-1.10.0\\res\\values-ldrtl-v17\\values-ldrtl-v17.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,191",
+                        "endColumns": "135,140",
+                        "endOffsets": "186,327"
+                    }
+                }
+            ]
+        }
+    ]
+}
