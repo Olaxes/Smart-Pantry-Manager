@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <application
+        android:theme="@android:style/Theme.Light"
+        android:label="Smart Pantry Manager">
+        <activity android:name="za.co.richfield.smartpantry.SettingsActivity" />
+        <activity android:name="za.co.richfield.smartpantry.RecipeDetailActivity" />
+        <activity android:name="za.co.richfield.smartpantry.SuggestedRecipesActivity" />
+        <activity android:name="za.co.richfield.smartpantry.IngredientFormActivity" />
+        <activity
+            android:name="za.co.richfield.smartpantry.MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+</manifest>
